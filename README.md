@@ -1,8 +1,3 @@
-Hi Sarah,
-
-Hi Sarah, how's it going?
-
-I am forwarding the application in zip with the instructions, any questions you may ask me.
 
 The application was made in Laravel 5.8 with MySQL database.
 
